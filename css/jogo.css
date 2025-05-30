@@ -5,8 +5,8 @@ body {
   user-select: none;
   background-image: url(../img/background.png);
   background-size: cover;
-  color: white;
   font-family: Arial;
+  color: white;
 }
 
 #jogo{
@@ -79,6 +79,7 @@ body {
   margin-top: 5px;
   font-size: 14px;
   font-weight: bold;
+  color:black; 
 }
 
 /*Header*/
