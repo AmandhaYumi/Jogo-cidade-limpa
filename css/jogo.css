@@ -6,6 +6,8 @@ body {
   background-image: url(../img/background.png);
   background-size: cover;
   font-family: Arial;
+}
+h2, li, .pbranco{
   color: white;
 }
 
@@ -173,3 +175,4 @@ nav ul li a:focus {
   transform: scale(1.05);
   cursor: pointer;
 }
+
